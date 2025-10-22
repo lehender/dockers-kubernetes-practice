@@ -20,3 +20,6 @@ kubectl create deployment nginx-deployment --image=nginx
 kubectl expose deployment nginx-deployment --port=80 --type=NodePort
 kubectl scale deployment nginx-deployment --replicas=3
 kubectl rollout status deployment nginx-deployment
+
+<img width="2255" height="524" alt="image" src="https://github.com/user-attachments/assets/6cd65618-d533-4a9b-8ddb-e51f538e980d" />
+<img width="3321" height="1676" alt="image" src="https://github.com/user-attachments/assets/9f1a390b-ac88-492f-8537-7cd0a2019255" />
